@@ -1,0 +1,786 @@
+[
+    {
+        "savol": "Python dasturlash tilida matrissalar bilan ishlovchi modullar?",
+        "javob": "Numpy,scipy"
+    },
+    {
+        "savol": "Tasvir signalining piksellari necha xil rangdan tashkil topgan?",
+        "javob": "3"
+    },
+    {
+        "savol": "Diskretlash natijasida qanday signal paydo bo’ladi?",
+        "javob": "Diskret"
+    },
+    {
+        "savol": "Tasvir signalining piksellari qanday ranglardan tashkil topgan?",
+        "javob": "qizil ko’k yashil"
+    },
+    {
+        "savol": "Signalni segmentlash jarayoni qanday?",
+        "javob": "signalni ma’lum bo’laklarga ajratish"
+    },
+    {
+        "savol": "Ko'p protsessorli tizimlarda hisoblash jarayonini tashkil qilish usuli:",
+        "javob": "Ko'p protsessorli ishlov berish"
+    },
+    {
+        "savol": "Matlab paketida ma’lumotlar qanday shaklda ifodalanadi?",
+        "javob": "matritsa"
+    },
+    {
+        "savol": "Matlab paketida Adamard matritsasini hosil qilish buyrug’i qanday?",
+        "javob": "Hadamard()"
+    },
+    {
+        "savol": "Ma’lumotlarning siqish algoritmlari necha guruhga bo’linadi?",
+        "javob": "2"
+    },
+    {
+        "savol": "Matlab paketida “Workspace” qismda nimalar joylashgan?",
+        "javob": "Natijalar, o’zgaruvchi qiymatlari"
+    },
+    {
+        "savol": "Signalni kvatlash qaysi o’q bo’yicha amalga oshiriladi?",
+        "javob": "amplituda"
+    },
+    {
+        "savol": "Matlab paketida “Command History” qismida nimalar joylashgan?",
+        "javob": "Buyruqlar tarixi"
+    },
+    {
+        "savol": "Fourier transform (FT) quyidagilar uchun ishlatiladi:",
+        "javob": "vaqt domenidan davriy bo'lmagan signallarni chastota domeniga o'zgartirish"
+    },
+    {
+        "savol": "Tizimning murakkabligi nimalarga bog‘liq?",
+        "javob": "Ichki va tashqi bog‘liqlik, dinamik o‘zgarishlar"
+    },
+    {
+        "savol": "Signal chastotasi 24 kHz  bo'lsa u necha Hz ga teng bo'ladi?",
+        "javob": "24000"
+    },
+    {
+        "savol": "1KHz chastota necha Hz chastota bo’ladi?",
+        "javob": "1000"
+    },
+    {
+        "savol": "Multipleksiya uchun to‘g‘ri javobi belgilang.",
+        "javob": "Bu bir nechta ma’lumot oqimlarini bitta vosita orqali birlashtirish va yuborish uchun ishlatiladigan usul"
+    },
+    {
+        "savol": "Kompyuter markaziy boshqaruv vositalariga qaysilar kiradi?",
+        "javob": "mikroprotsessor, mikrokontroller"
+    },
+    {
+        "savol": "Signalni kvantlash nima?",
+        "javob": "signalni amplituda o’qi bo’yicha bo’laklash"
+    },
+    {
+        "savol": "Signallarni adaptiv filtrlashda filtr koeffisentlari qanday hosil qilinadi?",
+        "javob": "Shovqin hamda kiruvchi signallar"
+    },
+    {
+        "savol": "Blokli kodlash nechi turga  bo'linadi?",
+        "javob": "2"
+    },
+    {
+        "savol": "Ikki o'lchamli signallarda yani tasvirlarda filtrlash amalarini qanday usulda  bajariladi?",
+        "javob": "Matrisa"
+    },
+    {
+        "savol": "Kotelnikov teoremasiga ta'rif bering",
+        "javob": "diskretlash chastota asosiy signal  chastotasidan 2 marta  katta bo'lishi kerak"
+    },
+    {
+        "savol": "Signal chastotalarini ifodalash birligini ko'rsating?",
+        "javob": "Hz"
+    },
+    {
+        "savol": "Lokal bazis o'zgartirish algoritmini ko'rsating?",
+        "javob": "Haara"
+    },
+    {
+        "savol": "Integral bazis o'zgartirish algoritmini ko'rsating?",
+        "javob": "Furye"
+    },
+    {
+        "savol": "Bazis funksiyasi tashkil etuvchilari 1 va -1 ga ega spektral o'zgartirish turini aniqlang?",
+        "javob": "Adamar"
+    },
+    {
+        "savol": "Bazis funksiyasi tashkil etuvchilari sinus va kosinusga ega spektral o'zgartirish turini aniqlang?",
+        "javob": "Furye"
+    },
+    {
+        "savol": "Nutq signallarini tanib olishda qaysi modeldan foydalangan maqsadga muvofiq?",
+        "javob": "Markov modellari"
+    },
+    {
+        "savol": "Signal protsessori ishlab chiqaradigan dunyoda yetakchi kompaniya?",
+        "javob": "Analog Devices"
+    },
+    {
+        "savol": "AVR mikrokontrollerlari qaysi firmaga tegishli?",
+        "javob": "Atmel"
+    },
+    {
+        "savol": "QNX operatsion tizimi operatsion tizimi qachon ishlab chiqilgan?",
+        "javob": "1982"
+    },
+    {
+        "savol": "Signallarni qayta ishlashning an’anaviy bosqichlarini belgilang?",
+        "javob": "signalni olish, dastlabki ishlov berish, belgilarini aniqlash"
+    },
+    {
+        "savol": "QNX operatsion tizimiga to'g'ri ta'rif berilgan qatorni toping?",
+        "javob": "real vaqt tizimida ishlovchi mikroyadroli operatsion tizim"
+    },
+    {
+        "savol": "Korrelyatsiya ikki shakli mavjud ularni nomini aniqlang.",
+        "javob": "Avtokorrelyasiya va o'zaro korrelyasiya"
+    },
+    {
+        "savol": "Raqamli signal prosessorlari ishlab chiqaradigan firmalar qatorini ko'rsating.",
+        "javob": "Analog Device,Motorola,Texas Insruments"
+    },
+    {
+        "savol": "Qanday filtrlarni ishlatish yordamida Raqamli signallarni filtrlash mumkin?",
+        "javob": "Raqamli filtrlar"
+    },
+    {
+        "savol": "Signalni bo’laklarga taqsimlash(bo’lish) qanday jarayon?",
+        "javob": "Segmentlash"
+    },
+    {
+        "savol": "Turli turdagi signallarni turli shovqinlardan, halaqitlardan tozalash qanday jarayon?",
+        "javob": "Filtrlash"
+    },
+    {
+        "savol": "Signallarni bir biriga mosligini tekshirish qanday jarayon?",
+        "javob": "Korrelyatsiyalash"
+    },
+    {
+        "savol": "AVR mikrokontrollerlari qanday arxitekturada tuzilgan?",
+        "javob": "RISC-arxitektura asosidagi"
+    },
+    {
+        "savol": "'fft(x)' - buyrug'i Matlab paketida qanday vazifani bajaradi?",
+        "javob": "X-signalni tezkor Furye o'zgartirishi yordamida chastota sohasiga olib o'tadi"
+    },
+    {
+        "savol": "Korrelyatsiya jarayoni nechta shakli mavjud?",
+        "javob": "2"
+    },
+    {
+        "savol": "“pwelch” buyrug‘i Matlab muhitida nima vazifani bajaradi",
+        "javob": "Signalning spektral quvvat zichligini ifodalaydi"
+    },
+    {
+        "savol": "Spektral o’zgartirish algoritmlari mavjud qatorni aniqlang:",
+        "javob": "DCT,FFT,Haar,Adamar"
+    },
+    {
+        "savol": "Signallarni qayta ishlashda analog signallarni raqamli signalga aylantirishning asosiy amallari qaysilar?",
+        "javob": "Diskretlash,  kvantlash va Kodlash"
+    },
+    {
+        "savol": "Signallarni qayta ishlashda signal o‘lchamining sekundiga qilingan o‘lchashlar soni nima deb aytiladi?",
+        "javob": "Diskretlash"
+    },
+    {
+        "savol": "Signallarni uzluksiz yoki diskret miqdor qiymatlarining qatorini chekli oraliqlarga bo‘lish jarayoni qanday nomladi?",
+        "javob": "Kvantlash"
+    },
+    {
+        "savol": "Nutqiy signal tarkibidagi so'zlashuv, bo'g'in yoki fonemalar orasidagi chegaralarni aniqlash jarayoni nima deb ataladi?",
+        "javob": "Nutq signalini segmentlash"
+    },
+    {
+        "savol": "Signallar Analog filtr bilan filtrlanganda qanday signal hosil bo’ladi?",
+        "javob": "Analog signal"
+    },
+    {
+        "savol": "Signalni diskretlash qaysi o’q bo’yicha amalga oshiriladi?",
+        "javob": "vaqt"
+    },
+    {
+        "savol": "Nutq signali sohasidagi boshlang’ich va tugallanish koeffitsiyentlari orasidagi farqni aniqlash nutq signalining qaysi parametrini ifodalaydi?",
+        "javob": "Takrorlanuvchi oraliq qiymatlar soni"
+    },
+    {
+        "savol": "Signalda diskret kosinus o’zgartirishi amalga oshirilganda uning natijaviy qiymatlari qaysi sohada ifodalanadi?",
+        "javob": "Amplituda-chastota"
+    },
+    {
+        "savol": "Signalda tezkor Fure o’zgartirishi amalga oshirilganda uning natijaviy qiymatlari qaysi sohada ifodalanadi?",
+        "javob": "Amplituda-chastota"
+    },
+    {
+        "savol": "Signalda Adamar o’zgartirishi amalga oshirilganda uning natijaviy qiymatlari qaysi sohada ifodalanadi?",
+        "javob": "Amplituda-chastota"
+    },
+    {
+        "savol": "Signalda Wevylet o’zgartirishi amalga oshirilganda uning natijaviy qiymatlari qaysi sohada ifodalanadi?",
+        "javob": "Amplituda-chastota"
+    },
+    {
+        "savol": "Dastlab Analog signallarni qanday filtrlar yordamida filtrlanadi?",
+        "javob": "Analog filtrlar"
+    },
+    {
+        "savol": "Nutq signalining asosiy parametrlari qaysilar?",
+        "javob": "qisqa vaqtli energiyasi va noldan o‘tuvchi nuqtalar soni"
+    },
+    {
+        "savol": "Signallarni qayta ishlash jarayonlarida analog raqamli o’zgartirish jarayoniga  tarkibiga qaysi amallar kiradi?",
+        "javob": "Diskretlash,kvantlash,kodlash"
+    },
+    {
+        "savol": "Signallarni matritsalarga asoslangan spektral o’zgartirish algoritmini toping.",
+        "javob": "Adamar"
+    },
+    {
+        "savol": "Matlab paketida “conv()” buyrug’i qanday vazifani bajaradi?",
+        "javob": "Signallarni svyortka qiladi"
+    },
+    {
+        "savol": "Matlab paketida audio signallarini qaysi buyruq orqali o’qib olinadi?",
+        "javob": "Audioread(), wavread()"
+    },
+    {
+        "savol": "Matlab paketida tasvir signallarini gistogrammasi orqali normallashtirish qaysi buyruq orqali amalga oshiriladi?",
+        "javob": "Histeq()"
+    },
+    {
+        "savol": "Matlab paketida natijani chiqarish ekranini taqsimlash buyrug’i qaysi?",
+        "javob": "Subplot()"
+    },
+    {
+        "savol": "Inson qulog‘i eshita oladigan tovush chastotalari oraliqlarini belgilang?",
+        "javob": "20-20000 Hz"
+    },
+    {
+        "savol": "Analog signallar ....",
+        "javob": "vaqt o'tishi bilan doimiy ravishda o'zgarib turadi"
+    },
+    {
+        "savol": "Bazis funksiyasi tashkil etuvchilari sinus va kosinusga ega spektral o'zgartirish turini aniqlang?",
+        "javob": "Furye"
+    },
+    {
+        "savol": "To‘g‘ri javobni tanlang: o‘zaro korrelyatsiya …..",
+        "javob": "ikkita signalning o’xshashligi yoki umumiy xususiyatlarining ko’rsatkichidir"
+    },
+    {
+        "savol": "Raqamli filtr uchun to‘g‘ri javobni aniqlang.",
+        "javob": "Raqamli ishlov berish usuli, ma'lum chegaraga ajratuvchi jarayon ketma-ketlik"
+    },
+    {
+        "savol": "Raqamli filtrning afzalligi nimada?",
+        "javob": "barcha javoblar to'g'ri"
+    },
+    {
+        "savol": "Raqamli filtrning kamchiligi nimada?",
+        "javob": "barcha javoblar to'g'ri"
+    },
+    {
+        "savol": "Diskret holda svyortkaning ikki turi mavjud ularni nomini aniqlang.",
+        "javob": "Chiziqli va siklik"
+    },
+    {
+        "savol": "Python dasturlash tilida grafik interfeysni hosil qilib berishga yordam beradigan modul?",
+        "javob": "Tkinter"
+    },
+    {
+        "savol": "Filtrlarni loyihalashda signallarni nimalar yordamida filtrlanadi?",
+        "javob": "Filtr koeffisentlari"
+    },
+    {
+        "savol": "Tibbiyotda ishlatiladigan signal turlarini belgilang.",
+        "javob": "elektromiografiya signali, elektroensefalografiya signali, elektrokardiografiya signal"
+    },
+    {
+        "savol": "Signallarni korrelyatsiya qilishning nechta shakli mavjud?",
+        "javob": "2"
+    },
+    {
+        "savol": "Signallarni svyortka qilishning necha xil turi bor?",
+        "javob": "2"
+    },
+    {
+        "savol": "MATLAB tizimining ‘command window’ qismida ma’lumotlarni kiritish … belgisidan boshlanadi.",
+        "javob": ">>"
+    },
+    {
+        "savol": "MATLAB tizimida massivlarni kiritish qanday tartibda kiritiladi?",
+        "javob": "[1,2,3,4]"
+    },
+    {
+        "savol": "Signalni dastlabki holati uni qaysi sohasini anglatadi?",
+        "javob": "Amplituda -Vaqt soxasi"
+    },
+    {
+        "savol": "Signalni vaqt soxasidan chastota sohasiga o’zgartiruvchi algoritmlar berilgan qatorni belgilang.",
+        "javob": "Fourier, DCT, Wavelet"
+    },
+    {
+        "savol": "Signal protsessorlari ishlab chiqaruvchi mashhur firmalarni ko'rsating.",
+        "javob": "Analog Device, Motorola, Texas Instruments"
+    },
+    {
+        "savol": "Hisoblash moslamalari necha bitli ma'lumotlarni qayta ishlaydi?",
+        "javob": "16-bitli"
+    },
+    {
+        "savol": "16 kHz chastota necha Hz chastota bo’ladi?",
+        "javob": "16000"
+    },
+    {
+        "savol": "Raqamli filtrlar nechta katta turga bo’linadi?",
+        "javob": "2"
+    },
+    {
+        "savol": "Raqamli filtrlarning asosiy afzalligi shundaki, ular:",
+        "javob": "arzonroq"
+    },
+    {
+        "savol": "Real vaqt tizimlari bu....?",
+        "javob": "boshqaruv paytida tashqi ta’sirlarga javob berishga ulguradigan tizimlar"
+    },
+    {
+        "savol": "Signalni kodlash nima?",
+        "javob": "signalni ikkilik sanoq sistemasiga o'tkazish"
+    },
+    {
+        "savol": "Signalni diskretlash nima?",
+        "javob": "signalni vaqt o’qi bo’yicha bo’laklash"
+    },
+    {
+        "savol": "Ma’lumotlarning asosiy turlari berilgan qatorni belgilang.",
+        "javob": "Butun,haqiqiy,kompleks,mantiqiy,matnli"
+    },
+    {
+        "savol": "Ma’lumotlar taqdim etishning asosiy formatlarini sanang",
+        "javob": "Bayt,yarimso‘z,so‘z,ikkitalik so‘z,kengaytirilgan so‘z"
+    },
+    {
+        "savol": "ADSP-2100 oilasidagi har bir protsessor nechta mustaqil hisoblash birliklarini o‘z ichiga oladi?",
+        "javob": "3"
+    },
+    {
+        "savol": "ADSP-2100 necha bitli ma’lumotlarni qayta ishlash uchun mo‘ljallangan?",
+        "javob": "16"
+    },
+    {
+        "savol": "ADSP-2100 oilasi protsessorlari quyidagilardan qaysilarini o‘z ichiga oladi?",
+        "javob": "Arifmetik mantiqiy qurilma,multiplikator-akkumlator,ma’lumot almashinuvchisi"
+    },
+    {
+        "savol": "Qaysi spektral o’zgartirish algoritmi kosinusga asoslangan?",
+        "javob": "DCT"
+    },
+    {
+        "savol": "Nutq signalining asosiy parametrlari qaysilar?",
+        "javob": "qisqa vaqtli energiyasi va noldan o‘tuvchi nuqtalar soni"
+    },
+    {
+        "savol": "KIX (eng: FIR) filtr uchun to’g’ri ta’rif berilgan qatorni toping.",
+        "javob": "Chekli impuls xarakteristikali filtr"
+    },
+    {
+        "savol": "Band Stop Filtr uchun to'g'ri javobni belgilang?",
+        "javob": "Chastotasi filtr hisoblanayotganda berilgan chastota o’tkazuvchanlik kengligidan tashqaridagi barcha signallarni o’tkazadi"
+    },
+    {
+        "savol": "Matlab paketida 'dct(x)' - buyrug'i qanday vazifani bajaradi?",
+        "javob": "X - signalni diskret kosinus o'zgartirishi orqali o'zgartiradi"
+    },
+    {
+        "savol": "Signallarga raqamli ishlov berish jarayonlarida teskari jarayonlar nimani ifodalaydi?",
+        "javob": "Signalning sinusoidalar bo‘yicha sintezi"
+    },
+    {
+        "savol": "Signallarga raqamli ishlov berishda blokli kodlash 2 turga bo'linadi, ular qaysi qatorda ko'rsatilgan.",
+        "javob": "Chiziqli,davriy"
+    },
+    {
+        "savol": "Nutq signallari va elektromiografiya signallarining asosiy farqi nimada?",
+        "javob": "Kirish chastotasi"
+    },
+    {
+        "savol": "Shovqinni minimallashtirishda signallarini qayta ishlash texnikasi  asosan qaysi sohada amalga oshiriladi?",
+        "javob": "Vaqt sohasida"
+    },
+    {
+        "savol": "Signallarni qayta ishlashda signal nimani ifodalaydi?",
+        "javob": "biror bir fizik jarayonning bir yoki bir nechta parametrini xabarga mos ravishda o‘zgarishini ifodalaydi."
+    },
+    {
+        "savol": "Nutq signallarini tanib olishda signalning qaysi asosiy koeffisentlaridan foydalaniladi?",
+        "javob": "MFCC"
+    },
+    {
+        "savol": "Tashqi muhit aloqasiga ko‘ra tizimlar qanday bo‘ladi?",
+        "javob": "Ochiq va yopiq"
+    },
+    {
+        "savol": "Quyidagi keltirilgan filtrlash jarayoning ifodasida y[n] qanday signal?y[n] = (b0*x[n] + b1*x[n-1] + b2*x[n-2] – a1*y[n-1] – a2*y[n-2])/a0",
+        "javob": "Filtrlangan signal"
+    },
+    {
+        "savol": "Shovqin signali",
+        "javob": "="
+    },
+    {
+        "savol": "Raqamli filtrlar nima uchun analog filtrlardan afzalroq ( eng asosiy sabablardan birini keltiring)",
+        "javob": "ularni oson dasturlashtirilishi mumkin"
+    },
+    {
+        "savol": "Oddiy raqamli signal protsessorlari tizimi quyidagilardan iborat.",
+        "javob": "DSP, xotira, ADC, DAC va aloqa portlari"
+    },
+    {
+        "savol": "Ko'p protsessorli tizimlarda hisoblash jarayonini tashkil qilish usuli:",
+        "javob": "Ko'p protsessorli ishlov berish"
+    },
+    {
+        "savol": "Nutq signallari qanday signal?",
+        "javob": "Biosignal"
+    },
+    {
+        "savol": "Vaqtga nisbatan fizik signallarni tahlil qilish nima deb ataladi",
+        "javob": "Vaqt sohasida signallarini qayta ishlash"
+    },
+    {
+        "savol": "Signallarga ishlov berishda qaysi sohalarda jarayonlarni amalga oshirish mumkin?",
+        "javob": "Vaqt va chastota sohasida"
+    },
+    {
+        "savol": "Deterministik signallar qanday ko’rinishlarda bo’ladi?",
+        "javob": "Davriy va davriy bo’lmagan"
+    },
+    {
+        "savol": "QNX operatsion tizimi qaysi arxitektura asosida qurilgan?",
+        "javob": "Mikroyadroli"
+    },
+    {
+        "savol": "Signallarga raqamli ishlov berishda  ushbu formula nimani ifodalaydi?",
+        "javob": "Qisqa vaqtli energiya"
+    },
+    {
+        "savol": "Signallarni qayta ishlashda eng ko`p ishlatiladigan amal?",
+        "javob": "Svyortka"
+    },
+    {
+        "savol": "Matlab paketida signallarni svyortka qilish buyrug’i qanday?",
+        "javob": "Conv()"
+    },
+    {
+        "savol": "Matlab paketida “conv()” buyrug’i qanday vazifani bajaradi?",
+        "javob": "Signallarni svyortka qiladi"
+    },
+    {
+        "savol": "Matematik nuqtai nazardan, uzluksiz signal doimiy....... ifodalanadi.",
+        "javob": "funktsiyani"
+    },
+    {
+        "savol": "Aloqa tizimi deb…………… aytiladi.",
+        "javob": "xabar manbasi va iste'molchi o‘rtasidagi xohlagan ikkita nuqta orasidagi texnik qurilmalar to‘plamiga"
+    },
+    {
+        "savol": "Telefon signali (ovoz) spektr kengligi qancha ?",
+        "javob": "300 Hz ÷ 3400 Hz"
+    },
+    {
+        "savol": "Radioeshittirish signali spektr kengligi qancha?",
+        "javob": "20  Hz   ÷  20000 Hz"
+    },
+    {
+        "savol": "Telegraf signali spektr kengligi qancha?",
+        "javob": "0  Hz ÷ 100 Hz"
+    },
+    {
+        "savol": "Televizion signali (video ) spektr kengligi qancha?",
+        "javob": "50 Hz ÷6.5 MHz"
+    },
+    {
+        "savol": "Tibbiyotda ishlatiladigan signal turlarini belgilang?",
+        "javob": "elektromiografiya signali, elektroensefalografiya signali, elektrokardiografiya signali"
+    },
+    {
+        "savol": "Matlab paketida signalni ekranda tasvirlash uchun qaysi buyruqdan foydalaniladi?",
+        "javob": "Plot()"
+    },
+    {
+        "savol": "Python dasturlash tilida matritsalar bilan ishlash kutubxonasi qaysi?",
+        "javob": "Numpy"
+    },
+    {
+        "savol": "Raqamli filtrlar impuls javob reaksiyalariga ko‘ra 2ta katta turga bo'linadi ularni nomi keltirilgan qatorni ko'rsating.",
+        "javob": "Cheksiz va chekli"
+    },
+    {
+        "savol": "Diskretlash chastotasi aniqlash qaysi teorema asosida olingan.",
+        "javob": "Kotelnikov"
+    },
+    {
+        "savol": "Raqamli sxemalar bilan taqqoslaganda analog sxemalar quyidagilarga nisbatan sezgirroqdir.",
+        "javob": "haroratning o'zgarishi, qarish va elementlarning bardoshlik darajasi"
+    },
+    {
+        "savol": "Furye tahlili ……",
+        "javob": "Signalni asl domenidan chastota domeniga o‘zgartiradi"
+    },
+    {
+        "savol": "Signal deb ………………………………… aytiladi?",
+        "javob": "biror bir fizik jarayonning bir yoki nechta parametlarini xabarga mos ravishda o‘zgarishiga"
+    },
+    {
+        "savol": "Tabiatda signallar asosan qanday holatda bo‘ladi ?",
+        "javob": "analog"
+    },
+    {
+        "savol": "DFT(Discrete Fourier Transform) qiymatlarini qanday olinadi?",
+        "javob": "Qiymatlarni ketma-ketlikni turli chastotalarning tarkibiy qismlariga ajratish orqali"
+    },
+    {
+        "savol": "Elektr signal deb –",
+        "javob": "elektr jarayonining bir yoki bir nechta parametrlarini xabarga mos ravishda o’zgarishiga aytiladi"
+    },
+    {
+        "savol": "Kvantlash jarayonida . . . .",
+        "javob": "signallarning butun diapazoni darajalarga bo'linadi, ularning soni berilgan bit kengligi sonlari bilan ifodalanishi kerak."
+    },
+    {
+        "savol": "Xabar manbadan xabar iste’molchiga yetkazib berish uchun foydalaniladigan texnik qurilmalar to’plamiga …………………  deb ataladi.",
+        "javob": "Aloqa tizimi"
+    },
+    {
+        "savol": "Signallarni sinus va kosinusga asoslangan spektral o’zgartirish algoritmi qaysi?",
+        "javob": "Fure"
+    },
+    {
+        "savol": "Qaysi spektral o’zgartirish algoritmi kosinusga asoslangan?",
+        "javob": "DCT"
+    },
+    {
+        "savol": "Nutq hamda tovush signallarni segmentlashning turlari qaysi?",
+        "javob": "Ketma-ket, suriluvchi"
+    },
+    {
+        "savol": "Nutq hamda tovush signallarni segmentlashning necha xil turi mavjud?",
+        "javob": "2"
+    },
+    {
+        "savol": "Elektromiografiya signallari qanday signal?",
+        "javob": "Biosignal"
+    },
+    {
+        "savol": "Elektrokardiografiya signallari qanday signal?",
+        "javob": "Biosignal"
+    },
+    {
+        "savol": "Elektroensofologramma signallari qanday signal?",
+        "javob": "Biosignal"
+    },
+    {
+        "savol": "Quyidagi formatlardan qaysi biri audio signallariga mansub?",
+        "javob": "Wav, mp3, ogg"
+    },
+    {
+        "savol": "Matlab paketida tasvirlarni qaysi buyruq orqali o’qib olinadi?",
+        "javob": "Imread()"
+    },
+    {
+        "savol": "Raqamli signallar qanday formula asosida  filtrlanadi ?",
+        "javob": "y[n] = b0*x[n] + b1*x[n-1]"
+    },
+    {
+        "savol": "Diskretlash chastotasi 11 kHz signalni vaqt o’qi bo’yicha nechta bo’lakka diskretlanadi",
+        "javob": "11050"
+    },
+    {
+        "savol": "Matlab paketida “close all” buyrug’i qanday vazifani bajaradi?",
+        "javob": "Barcha ochiq figuralarni yopadi"
+    },
+    {
+        "savol": "Ochiq figuralarni yopuvchi buyruq Matlab paketida qanday yoziladi?",
+        "javob": "Close all"
+    },
+    {
+        "savol": "Mushaklardan olinadigan biosignallar qanday signallar turiga mansub?",
+        "javob": "Elektromiografiya signali"
+    },
+    {
+        "savol": "Miyadan olinadigan signallar qanday signallar turiga kiradi?",
+        "javob": "Ensofologramma signali"
+    },
+    {
+        "savol": "Yurak mushagidan olinadigan signal qanday signal turiga kiradi?",
+        "javob": "Elektrokardiogramma signali"
+    },
+    {
+        "savol": "Tabiatda uchraydigan signallar …. turlarga bo’linadi.",
+        "javob": "Vaqt bo’yicha o’zgaradigan va o’zgarmaydigan"
+    },
+    {
+        "savol": "Signallar Bul algebrasida qanday ifodalanadi?",
+        "javob": "0 va 1 orqali"
+    },
+    {
+        "savol": "Signallarga raqamli ishlov berish amallarining qaysi birini asosida “svyortka algoritmi” yotadi?",
+        "javob": "Filtrlash"
+    },
+    {
+        "savol": "Matlab paketida tasvirni qaysi buyruq orqali ekranga chiqariladi?",
+        "javob": "Imshow()"
+    },
+    {
+        "savol": "Matlab paketida  tasvirni qaysi buyruq orqali gistogrammasini chiqarish mumkin?",
+        "javob": "Imhist()"
+    },
+    {
+        "savol": "Audio signallarining turlari to‘g‘ri keltirilgan javobni aniqlang",
+        "javob": "Mono va stereo"
+    },
+    {
+        "savol": "Mono turidagi audio signallar qanday o’lchamda bo’ladi ?",
+        "javob": "1 kanalli"
+    },
+    {
+        "savol": "Stereo turidagi audio signallar qanday o’lchamda bo’ladi ?",
+        "javob": "2 kanalli"
+    },
+    {
+        "savol": "To‘g‘ri javobni tanlang: Avtokorrelyatsiya bu ?",
+        "javob": "Faqat bitta signalning mavjudligi nazarda tutadi va vaqt o’tishi bilan signalning tuzilishi yoki uning harakati haqida malumot beradi"
+    },
+    {
+        "savol": "Chekli impuls harakteristikali(KIX ing: FIR) filtr uchun to‘g‘ri ta'rifni belgilang?",
+        "javob": "impuls tavsifnomasini vaqt mobaynida cheklangan xususiyatli bo‘ladi"
+    },
+    {
+        "savol": "Chekli impuls harakteristikali(KIX ing: FIR) filtrni afzalligi nimada?",
+        "javob": "barcha javoblar to'g'ri"
+    },
+    {
+        "savol": "Cheksiz impuls harakteristikali(BIX ing: IIR)  filtr uchun to‘g‘ri ta'rifni belgilang?",
+        "javob": "impuls tavsifnomasini vaqt mobaynida cheklanmagan xususiyatli bo‘ladi"
+    },
+    {
+        "savol": "Real vaqt tizimlari uchun to‘g‘ri bo‘lgan javobni ko‘rsating.",
+        "javob": "boshqaruv paytida tashqi ta'sirlarga javob berishga ulguradigan tizimlar"
+    },
+    {
+        "savol": "Uchuvchi apparatlar uchun turbalentlik qanday signallarga misol bo`ladi?",
+        "javob": "Tasodifiy"
+    },
+    {
+        "savol": "Tasodifiy signallarning parametrlarini aniqlang",
+        "javob": "Barchasi to‘g‘ri"
+    },
+    {
+        "savol": "Raqamli video sifatini baholovchi eng ishonchli va mukammal tizim?",
+        "javob": "Inson ko`z tizimi"
+    },
+    {
+        "savol": "Python dasturlash tilida ekranga ma`lumotlarni chiqarish buyrug‘i?",
+        "javob": "Print()"
+    },
+    {
+        "savol": "Qanday turdagi signal tashqi ta’sirlarda kamroq o’zgaradi?",
+        "javob": "Raqamli signal"
+    },
+    {
+        "savol": "Signalga to’g’ri ta’rif berilgan qatorni belgilang",
+        "javob": "bu fizik jarayon bo’lib, uning parametrlari uzatilayotgan xabarga muvofiq o’zgaradi"
+    },
+    {
+        "savol": "Raqamli signal qanday bo’ladi?",
+        "javob": "Raqamli signal uzlukli bo’ladi"
+    },
+    {
+        "savol": "Analog signal qanday bo’ladi?",
+        "javob": "Analog signal uzliksiz bo’ladi"
+    },
+    {
+        "savol": "Analog signal bilan raqamli signal o’rtasida qanday farq bor?",
+        "javob": "Analog signal uzluksiz, raqamli signal uzlukli bo’ladi"
+    },
+    {
+        "savol": "Raqamli signal protsessorlari qanday sinf protsessorlari hisoblanadi?",
+        "javob": "keladigan analogli signallarning raqamli qayta ishlanishiga yo’naltirilgan maxsus mikroprotsessorlar sinfi"
+    },
+    {
+        "savol": "Qanday signallar davriy signal hisoblanadi?",
+        "javob": "Ma’lum vaqt o’tishi bilan takrorlanadigan signal"
+    },
+    {
+        "savol": "Matlabda clc – buyrug’i nima vazifani bajaradi?",
+        "javob": "ishchi oynani tozalash"
+    },
+    {
+        "savol": "Low Pass Filtr uchun to’g’ri ta’rif berilgan qatorni toping.",
+        "javob": "Bu turdagi filtr chastotasi aniqlangan qiymatdan past bo’lgan signallarni o’tkazadi, boshqa signallarni kesib tashlaydi"
+    },
+    {
+        "savol": "High Pass Filtr uchun to’g’ri ta’rif berilgan qatorni toping.",
+        "javob": "Chastotasi aniqlangan qiymatdan baland bo’lgan signallarni o’tkazadi, boshqa signallarni kesib tashlaydi."
+    },
+    {
+        "savol": "Band Pass Filtr uchun to’g’ri ta’rif berilgan qatorni toping.",
+        "javob": "Signal chastotasi berilgan o’tkazish chastota kengligi ichida bo’lgan qismini o’tkazadi"
+    },
+    {
+        "savol": "Quyidagi filtrlash formulasida keltirilgan x[n] qanday signal? y[n] = (b0*x[n] + b1*x[n-1] + b2*x[n-2] – a1*y[n-1] – a2*y[n-2])/a0",
+        "javob": "Filtrlanishi kerak bo’lgan signal"
+    },
+    {
+        "savol": "Signallarga raqamli ishlov berishda Korrelyatsiya jarayonining necha xil shakli mavjud?",
+        "javob": "2"
+    },
+    {
+        "savol": "Qayta ishlanadigan signallar qanday guruhlarga bo’linadi?",
+        "javob": "Barcha javoblar to’g’ri"
+    },
+    {
+        "savol": "Qanday turdagi signal tashqi ta’sirlarda kamroq o’zgaradi?",
+        "javob": "Raqamli signal"
+    },
+    {
+        "savol": "Svyortka amalidan ko’p foydalaniladigan jarayon qaysi?",
+        "javob": "Filtrlash jarayoni"
+    },
+    {
+        "savol": "Signallarni qayta ishlashda eng ko`p ishlatiladigan amal",
+        "javob": "Svyortka"
+    },
+    {
+        "savol": "Signal chastotasi 230 Hz va qurilmaning disktretlash chastotasi 16 kHz bo'lsa, qurilma 1 sekundda nechta qiymat qabul qiladi.",
+        "javob": "16000"
+    },
+    {
+        "savol": "Video fayllardagi tasvirlarning tebranishiga asosan quyidagilar sabab bo'ladi:",
+        "javob": "kerakli miqdordagi kadrlarni o'z vaqtida uzata olmaslik"
+    },
+    {
+        "savol": "JPEG (Joint Photographic Expert Group) siqishni standartining zamonaviy versiyasi:",
+        "javob": "DCT va FFT kombinatsiyasidan foydalanadi va asosan harakatsiz tasvirlar uchun ishlatiladi"
+    },
+    {
+        "savol": "MATLAB-dagi qaysi funktsiya uzatish funktsiyasi nomeratori va maxrajining polinomlari koeffitsientlari to'plamlarini vektorlar va nollarga o'zgartiradi?",
+        "javob": "cheblfp (x, y)"
+    },
+    {
+        "savol": "Diskret filtrlar qanday shakllarga ega?",
+        "javob": "Kanonik, ko'chirilgan, ketma-ket, elliptik"
+    },
+    {
+        "savol": "Siqish jarayoniga to‘g‘ri ta’rifni belgilang",
+        "javob": "Ma’lumotlar fayllari hajmini kamaytirish jarayoni"
+    },
+    {
+        "savol": "Oddiy raqamli signal protsessorlari tizimi quyidagilardan iborat:",
+        "javob": "DSP, xotira, ADC, DAC va aloqa portlari"
+    }
+]
