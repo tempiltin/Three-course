@@ -24,8 +24,8 @@ const App = () => {
     <main>
       <div className="container mt-2">
         <div className="row justify-content-center">
-          <div className="col-6">
-          <button className="btn btn-danger" onClick={()=> handleChangePage("main")}>Ortga</button>
+          <div className="col-10">
+          <button className="btn btn-danger p-3" onClick={()=> handleChangePage("main")}>Ortga</button>
           </div>
         </div>
       </div>

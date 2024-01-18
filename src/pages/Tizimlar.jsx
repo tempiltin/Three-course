@@ -27,7 +27,7 @@ const Tizimlar = () => {
             <input
               value={query}
               onChange={handleSearch}
-              className="form-control p-3"
+              className="form-control p-3 mt-3"
               placeholder="Savollarni qidiring......!"
             />
             <button className="btn btn-info mt-1 wwww" onClick={()=> setQuery("")}>x</button>
