@@ -32,11 +32,7 @@ const ErrorPage = () => {
                  <strong> Iltimos To'g'ri maqsadda foydalaning !</strong>
               </h4>
             </div>
-            <div className="alert alert-info" role="alert">
-              <h4>
-                Agar shartlarimiz ma'qul kelsa telegramda <strong>@tempiltin</strong> ga murojat qiling <br /> <br /> to'lov narxi har bir foydalanuvchi uchun <br /> 20 000 so'm
-              </h4>
-            </div>
+           
           </div>
         </div>
       </div>
