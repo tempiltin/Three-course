@@ -9,7 +9,7 @@ import ErrorPage from "./pages/ErrorPage";
 
 const App = () => {
   const [page, setPage] = useState("main");
-  const [allowedIPs, setAllowedIPs] = useState(['188.113.218.211', '84.54.114.133',]);
+  const [allowedIPs, setAllowedIPs] = useState(['188.113.218.212', '84.54.114.133',]);
   const [error, setError] = useState(false);
 
   const handleChangePage = (param) => {
