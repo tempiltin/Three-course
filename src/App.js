@@ -9,36 +9,13 @@ import ErrorPage from "./pages/ErrorPage";
 
 const App = () => {
   const [page, setPage] = useState("main");
-  const [allowedIPs, setAllowedIPs] = useState([
-    "188.113.218.212",
-    "84.54.114.133",
-    "10.197.162.83",
-    "188.113.210.213",
-    "185.213.230.167",
-    "192.168.43.148",
-    "100.89.146.147",
-    "188.113.218.228",
-    "185.139.139.212", // Qamar
-    "188.113.205.252", // xurshid aka
-    "188.113.208.110"
-  ]);
-  const [error, setError] = useState(false);
+  
 
   const handleChangePage = (param) => {
     localStorage.setItem("page", param);
     setPage(param);
   };
 
-  useEffect(() => {
-    // Foydalanuvchi IP manzilini olish
-    fetch("https://api64.ipify.org?format=json")
-      .then((response) => response.json())
-      .then((data) => {
-        const userIP = data.ip;
-        setError(!allowedIPs.includes(userIP));
-      })
-      .catch((error) => console.error("IP olishda xato:", error));
-  }, [allowedIPs]);
 
   useEffect(() => {
     const savedPage = localStorage.getItem("page");
@@ -49,10 +26,7 @@ const App = () => {
 
   return (
     <main>
-      {error ? (
-        <ErrorPage />
-      ) : (
-        <>
+    
           <div className="container mt-2">
             <div className="row justify-content-center">
               <div className="col-10">
@@ -71,8 +45,7 @@ const App = () => {
           {page === "tarmoq" ? <Tarmoqlar /> : ""}
           {page === "tizimlar" ? <Tizimlar /> : ""}
           {page === "biznes" ? <Biznes /> : ""}
-        </>
-      )}
+      
     </main>
   );
 };
