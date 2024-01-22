@@ -1,0 +1,650 @@
+[
+    {
+        "savol": "Kod so’zlarini kiritish va chiqarish usullari bo’yicha mantiqiy qurilmalar bo’linadi……",
+        "javob": "Ketma-ket, parallel usulli"
+    },
+    {
+        "savol": "Kod signallarini qayta ishlash jarayonining asosiy masalasi ……..dan iboratdir.",
+        "javob": "Kodlarni qayta ishlash"
+    },
+    {
+        "savol": "MP bloklariaro almashinuv chog‘ida qanday til ishlatiladi?",
+        "javob": "Assembler tili buyruqlari"
+    },
+    {
+        "savol": "4-o’zgaruvchilik mantiqiy o’zgaruvchilar nechta holatlarni aniqlaydi?",
+        "javob": "16."
+    },
+    {
+        "savol": "To’liq deshifratordagi m chiqish va n kirish sonlarining bir-birlari bilan to‘g‘ri bog‘lanishini ko‘rsating.",
+        "javob": "m = 2n"
+    },
+    {
+        "savol": "Qaysi  turdagi deshifrator fakat ikki kirishli mantiqiy elementlar asosida quriladi?",
+        "javob": "Ko’p satxli"
+    },
+    {
+        "savol": "Multipleksor – bu…………..",
+        "javob": "Raqamli signallarning kommutatsiyalash kombinatsion qurilma"
+    },
+    {
+        "savol": "Qanday qurilma bir signalni n-razryadli ikkilik kodga o’tkazib beradi?",
+        "javob": "Shifrator"
+    },
+    {
+        "savol": "Multipleksorning axborotli  kirishlar  sonini  oshirish  mumkin, ammo  bunda   …… xam   oshishga olib keladi .",
+        "javob": "Adres (selektor)kirishlarining"
+    },
+    {
+        "savol": "Registrlar ………ishlatiladi.",
+        "javob": "Malumotlarni qabul qilish, saqlash, uzatish va qayta ishlash uchun."
+    },
+    {
+        "savol": "Ikkilik parallel kodni pozitsion kodga qayta ishlovchi qurilma …deyiladi.",
+        "javob": "Deshifrator"
+    },
+    {
+        "savol": "Deshifratorning qaysi turi faqat ikki kirishli mantiqiy elementlar orqali qo’shiladi?",
+        "javob": "Piramidali"
+    },
+    {
+        "savol": "Arifmetik amallarni bajaruvchi qurilma qanday nomlanadi?",
+        "javob": "summator"
+    },
+    {
+        "savol": "Bir bayt ko’pincha razryad setkasining ……qiymatiga tengdir.",
+        "javob": "8 bit"
+    },
+    {
+        "savol": "Ikkilik sistemasidagi razryad qiymati nimaga teng?",
+        "javob": "1 bit"
+    },
+    {
+        "savol": "Arifmetik mantiqiy qurilmada 1011 va 1010 sonlar mantiqiy qo’shilganda natija qanday?",
+        "javob": "1011"
+    },
+    {
+        "savol": "Mikroprotsessor deb  …",
+        "javob": "BK+arifmetik mantiqiy qurilma"
+    },
+    {
+        "savol": "Mikroprotsessorda qanday shinalar mavjud?",
+        "javob": "BSH, MSH, ASH."
+    },
+    {
+        "savol": "Interfeys……………. mo‘ljallangan?",
+        "javob": "MP ga ma’lumotlarni kiritish-chiqarish, malumotlar almashish tezligi va elektr parametrlarining moslashtirish uchun."
+    },
+    {
+        "savol": "Trigger nima uchun mo‘ljallangan?",
+        "javob": "Bir o’zgaruvchi qiymatining saqlash uchun"
+    },
+    {
+        "savol": "Odatda, qanday mantiqiy elementlarda triggerlar quriladi?",
+        "javob": "Va-yo’q, yoki-yoq"
+    },
+    {
+        "savol": "Trigger   kirishlarining noto‘g‘ri belgilanish  variantini toping.",
+        "javob": "L"
+    },
+    {
+        "savol": "Ish impulslarini sonini aniqlab boruvchi va ularni mos ravishda ikkilik signaliga aylantiruvchi qurilma?",
+        "javob": "xisoblagich"
+    },
+    {
+        "savol": "Trigger qaysi ikki asosiy qismdan tashkil topadi?",
+        "javob": "KDA va BYA"
+    },
+    {
+        "savol": "Trigger nomi nima bilan aniqlanadi?",
+        "javob": "Ularning kirish turlari nomlari bilan"
+    },
+    {
+        "savol": "Qaysi holatga qarab trigger turlarga ajratiladi? (asinxron va sinxron)?",
+        "javob": "Berilayotgan signal reaksiya xarakteri bilan"
+    },
+    {
+        "savol": "Sinxron triggerning aniq turini aniqlang.",
+        "javob": "Statik boshqaruvli sinxron trigger"
+    },
+    {
+        "savol": "Xisoblagichlarning sintezi…………aniqlash orqali   amalga oshiriladi?",
+        "javob": "xar bir trigger kirishlaridagi boshqaruv avtomatlarini"
+    },
+    {
+        "savol": "Diz’yunksiyasi nima?",
+        "javob": "mantiqiy qo‘shish"
+    },
+    {
+        "savol": "Malumotlarni B registrdan C registrga uzatuvchi buyruq quyidagicha yoziladi.",
+        "javob": "MOV B, C"
+    },
+    {
+        "savol": "Registr yordami bilan ……..  bajarish mumkin.",
+        "javob": "Ayirish amalini"
+    },
+    {
+        "savol": "Qaysi razryaddan boshlab qo‘shish jarayonini bajarish lozim?",
+        "javob": "Kichik razryadidan boshlab"
+    },
+    {
+        "savol": "IMS larni ishlab chiqish texnikasini bo’yicha necha turga bo’lamiz?",
+        "javob": "3"
+    },
+    {
+        "savol": "IMS larni belgilash asosan necha qismda iborat?",
+        "javob": "2"
+    },
+    {
+        "savol": "Ishlash prinsipiga ko’ra ME lar necha sinfga bo’linadi?",
+        "javob": "3"
+    },
+    {
+        "savol": "Triggerning kirish yo’l soni uning bajaradigan nimasiga bog’liq?",
+        "javob": "Funksiyasiga"
+    },
+    {
+        "savol": "2 teng kuchli alternative turg’un xolga ega bo’lgan va axborotni yozish saqlash va uzatish uchun xizmat qiladigan qurulma qaysi?",
+        "javob": "Trigger"
+    },
+    {
+        "savol": "Unipolyar treggerlardan qurulgan statik xotira elementi odatda nima asosida quruladi?",
+        "javob": "Trigger"
+    },
+    {
+        "savol": "Registor Schoytchik holatlari sonini nima deb ataymiz?",
+        "javob": "Qayta saqlash koyeffisiyent"
+    },
+    {
+        "savol": "Kirish impulslari soniga mo’ljallangan qurulma nima deyiladi?",
+        "javob": "Schoytchik"
+    },
+    {
+        "savol": "Registor Impuls zichligi deb nimaga aytiladi?",
+        "javob": "1 sekund ichida impulslar soniga"
+    },
+    {
+        "savol": "Multivebrator asosini nima tashkil qilinadi?",
+        "javob": "Registor"
+    },
+    {
+        "savol": "Jamg’aruvchi registorlar qanday vazifani bajaradi?",
+        "javob": "Axborotni qisqa vaqtgacha ushlab turadi"
+    },
+    {
+        "savol": "Xotira qurulmalarining EHM da bajaradigan vazifasi bo’yicha qanday turlarga bo’linadi?",
+        "javob": "Adresli, adressiz"
+    },
+    {
+        "savol": "Signallarni aloqa kanallari orqali qanday uzatish mumkin?",
+        "javob": "Parallel va ketma-ket"
+    },
+    {
+        "savol": "Funksional vazifasiga ko’ra registorlar qanday turlarga bo’linadi?",
+        "javob": "Siljituvchi jamg’aruvchi registorlar"
+    },
+    {
+        "savol": "Elektr impulsi deb nimaga aytiladi?",
+        "javob": "Qisqa vaqt ichida o’zgarmas qiymatdan farq qiluvchi tok yoki kuchlanishga aytiladi"
+    },
+    {
+        "savol": "Deshifrator deb…",
+        "javob": "n zaryadli 2 lik unitary kodni 2n razryadli kodga aylantiruvchi ME ga aytiladi"
+    },
+    {
+        "savol": "T- treggir qanday tildan olingan?",
+        "javob": "Inglizcha"
+    },
+    {
+        "savol": "T treggir informasiya kirish yo’liga ega bu kirish yo’li nima deyiladi?",
+        "javob": "Hisob kirish yo’li deyiladi"
+    },
+    {
+        "savol": "Trigger nima?",
+        "javob": "Trigger-bu tormozlangan multivibrator dir va uning yordamida tashqi siljish manbai bilan"
+    },
+    {
+        "savol": "Trigger turlarini ko’rsating?",
+        "javob": "D- Trigger, Т- Trigger, JK- Trigger"
+    },
+    {
+        "savol": "Trigger qaysi ikki asosiy qismdan tashkil topadi?",
+        "javob": "KDA va BYA"
+    },
+    {
+        "savol": "Trigger nomi nima bilan aniqlanadi?",
+        "javob": "Ularning kirish turlari nomlari bilan"
+    },
+    {
+        "savol": "Qaysi holatga qarab trigger turlarga ajratiladi? (asinxron va sinxron)?",
+        "javob": "Berilayotgan signal reaksiya xarakteri bilan"
+    },
+    {
+        "savol": "Sinxron triggerning aniq turini aniqlang?",
+        "javob": "Statik boshqaruvli sinxron trigger"
+    },
+    {
+        "savol": "Hisoblagichlarning sintezi.…aniqlash orqali   amalga oshiriladi?",
+        "javob": "har bir trigger kirishlaridagi boshqaruv avtomatlarini"
+    },
+    {
+        "savol": "Diz’yunksiyasi nima?",
+        "javob": "mantiqiy ko‘paytirish"
+    },
+    {
+        "savol": "Malumotlarni B registrdan S registrga uzatuvchi buyruq  quyidagicha yoziladi.",
+        "javob": "MOV B, C"
+    },
+    {
+        "savol": "Registr yordami bilan………..  bajarish mumkin.",
+        "javob": "Ayirish amalini"
+    },
+    {
+        "savol": "Qaysi razryaddan boshlab qo‘shish jarayonini bajarish lozim?",
+        "javob": "Kichik razryadidan boshlab"
+    },
+    {
+        "savol": "EHM ning 2 lik kodlarini ifodalashda qaysi ko’rinishdagi signallardan foydalaniladi?",
+        "javob": "potensial"
+    },
+    {
+        "savol": "Signallarni aloqa kanallari orqali ketma-ket uzatishda qaysi elementdan foydalaniladi?",
+        "javob": "konyunktor"
+    },
+    {
+        "savol": "Signallarni aloqa kanallari orqali parallel uzatishda qaysi elementdan foydalaniladi?",
+        "javob": "dizyunktor"
+    },
+    {
+        "savol": "IMS larni ishlab chiqarish texnalogiyalari bo’yicha necha turga bo’linadi?",
+        "javob": "yarim o’tkazgichli, plyonkali, gibridli mikrosxemalar"
+    },
+    {
+        "savol": "Funksiyonal belgilanishi bo’yicha IMS lar necha turga bo’linadi?",
+        "javob": "analogli va raqamli"
+    },
+    {
+        "savol": ". ……-deb, kirish signallari ustida aniq bir amal bajaradigan elektron qurilmaga aytiladi.",
+        "javob": "mantiqiy elementlar"
+    },
+    {
+        "savol": "…………- deb EHM ning uzeli bo’lib parallel raqamli kodlarni ketma-ket kodlarga aylantiradi.",
+        "javob": "multipleksor"
+    },
+    {
+        "savol": "Axborot oqimini bir necha liniyalar bo’yicha taqsimlash teskari operatsiyasini ……… bajaradi.",
+        "javob": "demultipleksorlar"
+    },
+    {
+        "savol": "2 lik unitar kodni 2n razryadli kodga ayantiruvchi mantiqiy elementlarga nima deyiladi?",
+        "javob": "deshefrator"
+    },
+    {
+        "savol": "Dishefratorlarda past potensial shakllanadigan chiqishning tartib raqami qanday bo’ladi?",
+        "javob": "N=x0*20+x1*21+x2*22"
+    },
+    {
+        "savol": "2 ta turg’un holatga ega bo’lgan sodda qurilmaga nima deyiladi?",
+        "javob": "trigger"
+    },
+    {
+        "savol": "Bir nechta kirish signaliga va 1 ta chiqish signaliga ega bo’lib, qandaydir mantiqiy amalni bajaruvchi elementga nima deyiladi?",
+        "javob": "funksional"
+    },
+    {
+        "savol": "Kirish impulslar sonini hisoblashga mo’ljallangan qurilmaga nima deyiladi?",
+        "javob": "Schotchik"
+    },
+    {
+        "savol": "Qaysi qurilmalarda har bir kirish impulsi chiqishdagi sonini 1 ga ko’paytiradi?",
+        "javob": "summatorlar"
+    },
+    {
+        "savol": "Bir necha sondagi triggerlar, mantiqiy elementlar birlashmasidan tashlik topib, berilgan axborotni o’z xotirasiga saqlash, kerak bo’lgan holda o’zlashtrish va uzatish uchun mo’ljallangan tezkor xotira qurilmasi nima deb ataladi?",
+        "javob": "registrlar"
+    },
+    {
+        "savol": "To’g’ri burchakli sinussimon tebranishlar generatoriga nima deyiladi?",
+        "javob": "multivibrator"
+    },
+    {
+        "savol": "O’tish signallarini taqqoslovchi, signallarni analik holatlardan raqamli holatga o’tkazuvchi qurilma qanday nomlanadi?",
+        "javob": "komporator"
+    },
+    {
+        "savol": "Raqamli texnikada axbarotni necha usulda ifodalash mumkin?",
+        "javob": "Analog va raqamli"
+    },
+    {
+        "savol": "Analog ko`rinishdagi signallarni qabul qilish, o`zgartirish va uzatish uchun mo`ljallangan elektron qurilmalarga ... aytiladi?",
+        "javob": "Analog elektron qurilmalar"
+    },
+    {
+        "savol": "Analog elektron qurilmalarni kamchiliklari berilgan qatorni toping?",
+        "javob": "xalaqit bardoshlikning kichikligi, uzoq masofalarga uzatilganda signalning kuchli buzilishi, axbarotlarni uzoq muddatga saqlashning murakkabligi, FIk qiymatining kichikligi."
+    },
+    {
+        "savol": "Anolog siglalni raqamli signalga o’tkazish necha guruhga bo`linadi?",
+        "javob": "3 guruhga"
+    },
+    {
+        "savol": "Kvantlash diskret elektron qurilmalar guruhi berilgan qatorni ko`rsating.",
+        "javob": "impulsli, releyli va raqamli"
+    },
+    {
+        "savol": "Raqamli integral sxema nima?",
+        "javob": "Integral elektron qurilma bo`lib, raqamli signal ko`rinishida berilgan axbarotni talab etilgan holda o`zgartirishga mo`ljallangan."
+    },
+    {
+        "savol": "Mantiq algebrasi 2 ta mantiqiy element asosida ishlaydi bular qaysilar?",
+        "javob": "rost va yolg`on"
+    },
+    {
+        "savol": "Mantiqiy funksiyalarni qaysi qatorda ko`rsatilgan asosiy amal sifatida ko`rish mumkin:",
+        "javob": "mantiqiy inkor, mantiqiy qo`shish, mantiqiy ko`paytirish,"
+    },
+    {
+        "savol": "Superpozitsiya amaliga to`g`ri tarif berilgan qatorni ko`rsating.",
+        "javob": "Bir funksiya argumentlarini boshqa funksiya argumentlari bilan almashtirish amaliga aytiladi"
+    },
+    {
+        "savol": "Ikkilik axbarotni ifodalash usuliga ko`ra qurilmalar 2 ga bo`linadi. Bular qaysilar?",
+        "javob": "potensial va impuls raqamli qurilmalar"
+    },
+    {
+        "savol": "Ishlash prinsipiga ko`ra ME lar necha sinfga bo`linadi?",
+        "javob": "kombinatsion va ketma-ketli"
+    },
+    {
+        "savol": "1 sekund ichida impulslar soniga … deb ataladi?",
+        "javob": "impuls chastotasi"
+    },
+    {
+        "savol": "Schotchikga to`g`ri ta’rif berilgan qatorni ko`rsating.",
+        "javob": "kirish impulslari sonini sanash uchun mo`ljallangan qurilmalarga aytiladi."
+    },
+    {
+        "savol": "Schotchiklar nechta turga bo`linadi?",
+        "javob": "2ta"
+    },
+    {
+        "savol": "Eng sodda schotchiklar qaysi qatorda ko`rsatilgan?",
+        "javob": "2lik schotchiklar"
+    },
+    {
+        "savol": "Axbarotni yozish bo’yicha trigerlar necha turga bo’linadi?",
+        "javob": "2ga"
+    },
+    {
+        "savol": "Asinxron RS trigerlari qaysi mantiqiy elementlar asosida quriladi?",
+        "javob": ",,Yoki-yo’q”  ,,Va-yo’q”"
+    },
+    {
+        "savol": "Registr deb nimaga aytiladi?",
+        "javob": "Bir necha sondagi triggerlar birlashmasidan tashkil topgan."
+    },
+    {
+        "savol": "Registrlar qaysi tartibda ishlaydi?",
+        "javob": "dinamik va statik"
+    },
+    {
+        "savol": "Registlar ishlash taktiga ko`ra  ... bo`lishi mumkin.",
+        "javob": "bir va ko`p taktli"
+    },
+    {
+        "savol": "Uzluksiz funksiya ko’rinishida ifodalangan signallarni qayta ishlovchi va o’zgartiruvchi mikrosxema bu..:",
+        "javob": "Analogli mikrosxema deyiladi;"
+    },
+    {
+        "savol": "Tranzistorli sxemalar orqali zanjirni ko’rish uchun xizmat qiladi;",
+        "javob": "Tranzistorli sxemalar orqali zanjirni ulab uzish uchun xizmat qiladi;"
+    },
+    {
+        "savol": "Raqamli saralash nazariyasiga ko’ra signallarga raqamli ishlov berishning …… usuli mavjud?",
+        "javob": "Analogli va Raqamli;"
+    },
+    {
+        "savol": "Raqamli integral mikrosxema negiz elementlariga qo’yiladigan asosiy talab:",
+        "javob": "Ularning tezkorligi, kichik sochilish quvvati, katta joylashtirish zichligi."
+    },
+    {
+        "savol": "Elementlarning mantiqiy ekvivalent shaklini ko’rsating?:",
+        "javob": "2 HA-YoKI-YO’Q-2YoKI-HA;"
+    },
+    {
+        "savol": "Tranzistorning ishlatilish turiga ko’ra yarim o’tkazgichli IMSlarni..?:",
+        "javob": "Bipolyar va MDYa IMS larga ajratish qabul qilingan."
+    },
+    {
+        "savol": "Mikrosxemalar bajaradigan vazifasiga ko’ra...:",
+        "javob": "Raqamli IMS lar va Analogli IMS larga bo’linadi;"
+    },
+    {
+        "savol": "Mantiqiy algebra sonlar emas, balki…?:",
+        "javob": "Holatlar algebrasi hisoblanadi."
+    },
+    {
+        "savol": "Analogli IMS larda signal…?:",
+        "javob": "Uzluksiz funksiya ko’rinishda o’zgaradi;"
+    },
+    {
+        "savol": "Mantiqiy qo’shuv...:",
+        "javob": "Bu amal YoKI amali yoki diz’yunksiya deb ataladi;"
+    },
+    {
+        "savol": "Mantiqiy inkor…:",
+        "javob": "Inkor amali inversiya yoki to’ldirish deb ataladi;"
+    },
+    {
+        "savol": "Hisoblagichlar ketma-ket qurilma bo’lib, kirish yo’liga ... berilgan xizmat qiladi?:",
+        "javob": "Impulslar sonini hisoblash va saqlash uchun;"
+    },
+    {
+        "savol": "Mantiqiy inkor amalini “YO’Q” mantiqiy elementi ya’ni….. amalga oshiradi:",
+        "javob": "Invertor;"
+    },
+    {
+        "savol": "IMSlar turlari?",
+        "javob": "Yarim o’tkazgichli va dielektrik;"
+    },
+    {
+        "savol": "Qismlarini ulash usuli bo’yicha … elementlarga ajratiladi?",
+        "javob": "Statik va Dinamik;"
+    },
+    {
+        "savol": "Raqamlarni ifodalash uchun raqamli tizimlarda elektr kattalikning ikki holatdagi signalini qabul qilishga moslashgan bular….:",
+        "javob": "Tok yoki kuchlanish;"
+    },
+    {
+        "savol": "Mantiqiy ko’paytirish amali bu…?:",
+        "javob": "Konyunksiya deb ataladi;"
+    },
+    {
+        "savol": "Musbat mantiqda: mantiqiy 1- :",
+        "javob": "Yuqori darajali kuchlanish."
+    },
+    {
+        "savol": "Shifrator (CD- coder)….:",
+        "javob": "Kirish yo’lidagi birlik signalni n razryadli ikkilik kodga aylantiradi;"
+    },
+    {
+        "savol": "2 teng kuchli alternative turg’un xolga ega bo’lgan va axborotni yozish saqlash va uzatish uchun xizmat qiladigan qurulma qaysi?",
+        "javob": "Trigger;"
+    },
+    {
+        "savol": "Trigger -bu?",
+        "javob": "Ikkita teng kuchli, alternativ turg’un holatga ega bo’lgan va axborotni yozish, saqlash va uzatish uchun xizmat qiladigan qurilmadir;"
+    },
+    {
+        "savol": "Mantiq algebra funksiyalari (MAF) turli usullarda ifodalanishi mumkin:",
+        "javob": "Jadval yoki matritsa ko’rinishida, geometrik ko’rinishda, analitik ko’rinishda;"
+    },
+    {
+        "savol": "Agar A va B mantiqiy fikrlarning fakatgina bittasi rost bo’lsa ularning modul ikki bo’yicha yig’indisi… bo’ladi:",
+        "javob": "Rost;"
+    },
+    {
+        "savol": "Raqamli qurilmalar ishlash algoritmini ifodalash uchun…?:",
+        "javob": "Bul algebrasi yoki mantiq algebrasi qo’llaniladi;"
+    },
+    {
+        "savol": "Integral mikrosxemalar tayyorlanish texnologiyasiga ko’ra….:",
+        "javob": "Yarim o’tkazgichliplyonkali va gibrid (duragay) turlarga bo’linadi;"
+    },
+    {
+        "savol": "Elektr signallari … shaklda ifodalanishi mumkin?",
+        "javob": "Uzluksiz (analog) yoki diskret (raqamli);"
+    },
+    {
+        "savol": "Qaysi razryaddan boshlab qo‘shish jarayonini bajarish lozim?:",
+        "javob": "Kichik razryadidan boshlab;"
+    },
+    {
+        "savol": "Kod signallarini qayta ishlash jarayonining asosiy masalasi … dan iboratdir:",
+        "javob": "Kodlarni qayta ishlash;"
+    },
+    {
+        "savol": "Shifratorning m (kirish) va n (chiqish) yo’llari soni ...  munosabat bilan belgilanadi?",
+        "javob": "m=2n;"
+    },
+    {
+        "savol": "Axborot oqimini bir necha liniyalar bo’yicha taqsimlash teskari operatsiyasini….?:",
+        "javob": "Demultipleksorlar bajaradi;"
+    },
+    {
+        "savol": "Sinxron triggerlarning chiqish yo’lida signallarning o’zgarishi uchun...:",
+        "javob": "Uning kirish yo’liga qo’shimcha sinxrosignal (boshkarish signali) berish kerak;"
+    },
+    {
+        "savol": "Bul algebrasida faqatgina ikkita tasdiqlangan fikrdan foydalaniladi?",
+        "javob": "Murakkab va Sodda;"
+    },
+    {
+        "savol": "Signal diskret darajalarini raqamlar ketma- ketligi bilan almashtirish jarayoni …… deb ataladi?",
+        "javob": "Kodlash;"
+    },
+    {
+        "savol": "Bul algebrasining asosiy amallari quyidagicha:",
+        "javob": "Qo’shuv, ko’paytiruv va inkor;"
+    },
+    {
+        "savol": "Kod o’zgartirgichlarni qurishda boshlang’ich ma’nba sifatida….?",
+        "javob": "Mostlik jadvali asos qilib olinadi."
+    },
+    {
+        "savol": "Mantiqiy IMSlar…… birlashadilar?",
+        "javob": "Seriyalarga;"
+    },
+    {
+        "savol": "Multipleksorning ishlash prinsipi...:",
+        "javob": "Parallel raqamli kodlarni ketma-ket kodlarga aylantirish uchun xizmat qiladi;"
+    },
+    {
+        "savol": "IMSlarning prinsipial turlari",
+        "javob": "Yarim o’tkazgichli, pardali va gibrid"
+    },
+    {
+        "savol": "Analog signallarni qayta ishlaydigan mikrosxemalar bu…",
+        "javob": "Analogintegral mikrosxemalar"
+    },
+    {
+        "savol": "Texnologiyaviy belgilari, ya’ni yaratish usuliga qarab, IMSlar",
+        "javob": "Yarim o’tkazgichli va Gibrid IMS larga  bo’linadi"
+    },
+    {
+        "savol": "Uch elektrodli yarimo’tkazgichli asbob bu",
+        "javob": "Tranzistor"
+    },
+    {
+        "savol": "Mantiqiy elementni manba bilan ta’minlash uchun…. manba xizmat qiladi.",
+        "javob": "5-2 V li"
+    },
+    {
+        "savol": "Signallarni aloqa kanallari orqali qanday uzatish mumkun?",
+        "javob": "Parallel, Ketma-ket"
+    },
+    {
+        "savol": "Reversiv hisoblagich - bu",
+        "javob": "Hisob yo’nalishini boshqaradigan hisoblagichdir."
+    },
+    {
+        "savol": "Mulohazalar …...bo’lishi mumkin.",
+        "javob": "Sodda va murakkab"
+    },
+    {
+        "savol": "Integral bu..",
+        "javob": "Fransuzcha so’z bo’lib, mayda qismlar demakdir."
+    },
+    {
+        "savol": "Mulohaza bu?",
+        "javob": "Narsa va hodisalarning sifatini anglatuvchi darak gapdir."
+    },
+    {
+        "savol": "IMS joylanish zichligi bu…",
+        "javob": "Element va komponentlar sonining mikro-sxemaning asosiy hajmiga nisbatiga teng bo’lgan kattalik"
+    },
+    {
+        "savol": "Mantiqiy qo’shish amali “YoKI”-mantiqiy elementi bu-",
+        "javob": "Dizyunksiya"
+    },
+    {
+        "savol": "Axborotni kodlash usuliga ko’ra mantiqiy elementlar",
+        "javob": "Potensial va impuls usullariga bo’linadilar."
+    },
+    {
+        "savol": "Kod o’zgartirgichlar va uning ishlash prinsipi.",
+        "javob": "Sonlarni bir formadan boshqa formaga o’tkazish va akslantirish uchun xizmat qiladi."
+    },
+    {
+        "savol": "Ayiruvchi hisoblagich.",
+        "javob": "T-trigger asosida qurilishi mumkin"
+    },
+    {
+        "savol": "IMSlarning asosiy xossasi shundaki, u murakkab funksiyalarni ……bajarish bilan birga…",
+        "javob": "Kuchaytirgich, trigger, hisoblagich, xotira qurilmasi funksiyalarini xam bajara oladi"
+    },
+    {
+        "savol": "EHMlarning barcha qurilmalari bu…….",
+        "javob": "Elementar mantiqiy sxemalardan tashkil topgan."
+    },
+    {
+        "savol": "Hisoblagichning sinxronizasiya asosida holatini o’zgartirish",
+        "javob": "Asinxron va Sinxron bo’yicha."
+    },
+    {
+        "savol": "EHMlarning sonli elementlari - bu",
+        "javob": "Mantiqiy funksiyalarni bajaruvchi va o’nlikka axborotlarni xotirasida saqlovchi qurilmalardir."
+    },
+    {
+        "savol": "Mantiqiy elementlar  o’rtasidagi bog’lanish ko’proq…..bo’ladi.",
+        "javob": "Potensialli"
+    },
+    {
+        "savol": "IMS larni belgilash asosan necha qismda iborat?",
+        "javob": "2"
+    },
+    {
+        "savol": "Deshifrator (DC decoder)bu..",
+        "javob": "Kirish yo’lidagi signallarni faqat n razryadli kodga aylantirib beruvchi."
+    },
+    {
+        "savol": "Diskret funksiya qonuniyati bilan o’zgaruvchi signallarni qayta ishlash va uzatishga mo’ljallanga IMSga..",
+        "javob": "Raqamli IMS deyiladi"
+    },
+    {
+        "savol": "Shifrator va deshifratorlar ham xususiy holda…..",
+        "javob": "Kod o’zgartirgichlar hisoblanadi."
+    },
+    {
+        "savol": "To’la bo’lmagan deshifratorda esa…",
+        "javob": "m < 2n."
+    },
+    {
+        "savol": "Ikkilik kodni ketma-ket uzatish usuli uchun……….",
+        "javob": "Bitta aloqa simi yetarlidir."
+    },
+    {
+        "savol": "Analitik ifodalash usulida….",
+        "javob": "Mantiq algebra funksiyalari ko’rinishida yoziladi."
+    }
+]
